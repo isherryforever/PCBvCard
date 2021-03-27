@@ -1,0 +1,8 @@
+基于NFC的PCB名片（焊接芯片）
+https://lceda.cn/scarrr0725/ji-yu-nfcde-ming-pian-ji-ji-yu-a
+在线条码生成器
+http://qinms.com/webapp/barcode/index.aspx
+RFID与NFC区别
+http://www.nfchome.org/different-nfc-rfid.html
+NFC-card电路图
+https://lceda.cn/yang-z-b/nfc-card
